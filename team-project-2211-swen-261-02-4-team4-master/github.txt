@@ -1,0 +1,313 @@
+commit bfa79fc5423617c68b906aaadc1ed4dbef1d5d2f
+Author: Ardit <ak1935@rit.edu>
+Date:   Mon Oct 4 17:31:55 2021 -0400
+
+    board constr.
+
+commit 50fd80bdb7e4559eb30eaa4d060246f67b27943b
+Author: Ryan Wolford <rcw3446@rit.edu>
+Date:   Mon Oct 4 17:23:59 2021 -0400
+
+    added PlayerLobby into PostSignInRoute
+
+commit e3d77f5308d01a83798c2f566542c0e76b195a63
+Merge: 9e07300 27347d8
+Author: Ben <gurevichbenjamin@gmail.com>
+Date:   Mon Oct 4 17:17:43 2021 -0400
+
+    Merge branch 'master' of https://github.com/RIT-SWEN-261-02/team-project-2211-swen-261-02-4-team4
+
+commit 9e07300a5f9a2a49814c2cc7bc365e2fe0edac9e
+Author: Ben <gurevichbenjamin@gmail.com>
+Date:   Mon Oct 4 17:17:29 2021 -0400
+
+    Messages in PlayerLobby
+
+commit 27347d86c83ba058dc65af6bb3f3e1252641d475
+Merge: 9a78edd f6ca080
+Author: Ardit <ak1935@rit.edu>
+Date:   Mon Oct 4 17:12:07 2021 -0400
+
+    Merge branch 'master' of github.com:RIT-SWEN-261-02/team-project-2211-swen-261-02-4-team4
+
+commit 9a78edd7ad99332906f03963b8b1b09a82eccc78
+Author: Ardit <ak1935@rit.edu>
+Date:   Mon Oct 4 17:11:49 2021 -0400
+
+    Boardstuff
+
+commit f6ca080630fb6e7929f5643771c9417eab9d0818
+Merge: c72f228 e65267d
+Author: Ryan Wolford <rcw3446@rit.edu>
+Date:   Mon Oct 4 17:11:00 2021 -0400
+
+    Merge branch 'master' of https://github.com/RIT-SWEN-261-02/team-project-2211-swen-261-02-4-team4
+
+commit c72f228f8838244e0ed7f47e979c6cc0c20e104a
+Author: Ryan Wolford <rcw3446@rit.edu>
+Date:   Mon Oct 4 17:10:43 2021 -0400
+
+    Added PlayerLobby creation
+
+commit e65267deae59c4483fcc5253cea0bd74c6011294
+Author: Ardit <ak1935@rit.edu>
+Date:   Mon Oct 4 17:07:24 2021 -0400
+
+    piece added
+
+commit 3a8704961f495dd2b56e32167d47216eda72c8d6
+Author: olafhichwa <ooh5406@rit.edu>
+Date:   Mon Oct 4 17:06:30 2021 -0400
+
+    added space class and made player lobby methods private
+
+commit 94f73c4ff9e748639f2b5a7ae399efeef4535a85
+Author: olafhichwa <ooh5406@rit.edu>
+Date:   Mon Oct 4 17:01:31 2021 -0400
+
+    added game and board classes
+
+commit da73b0313260a47d1969380ce7e4b33d66359e21
+Author: olafhichwa <ooh5406@rit.edu>
+Date:   Mon Oct 4 16:54:22 2021 -0400
+
+    revert and fix of player lobby, added number of players method
+
+commit 17cce9782bd98db933d722f187f58527641de891
+Author: olafhichwa <ooh5406@rit.edu>
+Date:   Mon Oct 4 16:51:32 2021 -0400
+
+    Revert "Add Players in PlayerLobby"
+    
+    This reverts commit 9d38b6e8a7e7786fb46378652ee4d38218f01167.
+
+commit c54bb37727a6127987b3c31a81520e263ba58be0
+Author: Ardit <ak1935@rit.edu>
+Date:   Mon Oct 4 16:45:59 2021 -0400
+
+    lobby
+
+commit 9d38b6e8a7e7786fb46378652ee4d38218f01167
+Author: Ben <gurevichbenjamin@gmail.com>
+Date:   Sat Oct 2 14:36:16 2021 -0400
+
+    Add Players in PlayerLobby
+
+commit 2e5c4d3b3a374a9fd33025461cac7d6a79291396
+Author: olafhichwa <ooh5406@rit.edu>
+Date:   Sat Oct 2 14:13:17 2021 -0400
+
+    updated player class and created a new player
+
+commit b20f0bb5d6e3dee4ae4a3916273a106cbe5a72a6
+Merge: 5836f68 47642d9
+Author: olafhichwa <ooh5406@rit.edu>
+Date:   Sat Oct 2 13:59:46 2021 -0400
+
+    Merge remote-tracking branch 'origin/master'
+
+commit 5836f6846cd8ddb0959e1785a240463ca057f5d5
+Author: olafhichwa <ooh5406@rit.edu>
+Date:   Sat Oct 2 13:59:39 2021 -0400
+
+    finished sign in actions
+
+commit 47642d91f159baf6d45e3d94f97ce705a2b5cf8b
+Merge: 2a612f4 e6ece60
+Author: Ben <gurevichbenjamin@gmail.com>
+Date:   Sat Oct 2 13:57:48 2021 -0400
+
+    Merge branch 'master' of https://github.com/RIT-SWEN-261-02/team-project-2211-swen-261-02-4-team4
+
+commit 2a612f4554be664ca2ad204324cfe24f1632893d
+Author: Ben <gurevichbenjamin@gmail.com>
+Date:   Sat Oct 2 13:57:38 2021 -0400
+
+    Button implementation
+
+commit e6ece60e7f8b859b909b3fbbdc1697640deacf18
+Author: Ryan Wolford <rcw3446@rit.edu>
+Date:   Sat Oct 2 13:51:35 2021 -0400
+
+    Added GetGameRoute, PostHomeRoute, and PostSignInRoute
+
+commit 917cb149d05dc70e1aad3135b4b3931ba81e4b20
+Author: Ardit <ak1935@rit.edu>
+Date:   Sat Oct 2 13:46:05 2021 -0400
+
+    Ben's a god.
+
+commit dd40503323b250fff911dddebfca5eb89347ce34
+Author: Ardit <ak1935@rit.edu>
+Date:   Sat Oct 2 13:25:54 2021 -0400
+
+    Ben did all the work, to be honest.
+
+commit bc4fac45a983f09d062bb24b8d83391e90e2008c
+Merge: 470c43c c45ff2c
+Author: Ryan Wolford <rcw3446@rit.edu>
+Date:   Sat Oct 2 13:21:00 2021 -0400
+
+    Merge branch 'master' of https://github.com/RIT-SWEN-261-02/team-project-2211-swen-261-02-4-team4
+
+commit 470c43ccff891304afc3cef5fa45d8822d3ae02c
+Author: Ryan Wolford <rcw3446@rit.edu>
+Date:   Sat Oct 2 13:20:47 2021 -0400
+
+    Added GetSignInRoute to WebServer
+
+commit c45ff2cdd5064ee8ac89506b147ea9376b8833b3
+Author: Ardit <ak1935@rit.edu>
+Date:   Sat Oct 2 13:17:06 2021 -0400
+
+    signin
+
+commit 0549c060949a97a509b19e371d7f800b502b1e26
+Merge: cd50817 53cb428
+Author: olafhichwa <ooh5406@rit.edu>
+Date:   Sat Oct 2 13:14:27 2021 -0400
+
+    Merge remote-tracking branch 'origin/master'
+
+commit cd50817d6081a812cd8cc79be7eea14c6442e9c8
+Author: olafhichwa <ooh5406@rit.edu>
+Date:   Sat Oct 2 13:14:15 2021 -0400
+
+    fixed errors so we can compile again
+
+commit 53cb42867a44731c4cf347cce1ce870d327d4df8
+Author: Ryan Wolford <rcw3446@rit.edu>
+Date:   Sat Oct 2 13:12:28 2021 -0400
+
+    Fixed stuff
+
+commit 500b940fa5e46b3f82f2be6fd78eb9d6829685b5
+Merge: 58089ae 5f4d488
+Author: olafhichwa <ooh5406@rit.edu>
+Date:   Sat Oct 2 13:05:36 2021 -0400
+
+    Merge remote-tracking branch 'origin/master'
+
+commit 58089ae20585b0d48d235ab3d2622a6871cc24d6
+Author: olafhichwa <ooh5406@rit.edu>
+Date:   Sat Oct 2 13:05:21 2021 -0400
+
+    fixed errors so we can compile
+
+commit 5f4d488bd5924ec4ba75737339d38a5429312b4d
+Author: Ryan Wolford <rcw3446@rit.edu>
+Date:   Sat Oct 2 13:01:19 2021 -0400
+
+    Started GetSignInRoute
+
+commit 9e40ecc8ba31f7bf2b20b70025de260e37e1179a
+Author: Ardit <ak1935@rit.edu>
+Date:   Sat Oct 2 12:50:47 2021 -0400
+
+    ftl
+
+commit 582dd2bd99d185b5c0bc98f77a02536c15cfed93
+Author: olafhichwa <ooh5406@rit.edu>
+Date:   Sat Oct 2 12:49:05 2021 -0400
+
+    created new ftl and made progress on user name processing class
+
+commit c923385f4a61fe18a1166661e4fd0c4d9fcf7e4c
+Author: olafhichwa <ooh5406@rit.edu>
+Date:   Sat Oct 2 12:35:45 2021 -0400
+
+    added sign in url string
+
+commit d6ae5852b95fb8083d8a36e40fcb37a6694ba74c
+Author: olafhichwa <ooh5406@rit.edu>
+Date:   Sat Oct 2 12:31:38 2021 -0400
+
+    added sign in ftl file
+
+commit b440fc86eec9c64b923a8e46d5927ccfb7d33504
+Author: Jonah Rosenberg <49052921+SnugLyfe@users.noreply.github.com>
+Date:   Mon Sep 27 18:12:01 2021 -0400
+
+    added Jonah Rosenberg to team members
+
+commit 803a3bdabddbaf22e8a259ded57bb265044cfd45
+Author: Ryan Wolford <rcw3446@rit.edu>
+Date:   Mon Sep 27 16:50:54 2021 -0400
+
+    Updating changelog
+
+commit fe2d970f7ac2191b2840af84f64b2a44ea6336e6
+Author: Ardit <ak1935@rit.edu>
+Date:   Thu Sep 23 12:07:23 2021 -0400
+
+    Ardit Koti added name
+
+commit c8a39fc3324519afa52d887493512b4f4a5f6e2d
+Merge: c9e00db a626f27
+Author: Ryan Wolford <rcw3446@rit.edu>
+Date:   Wed Sep 22 21:06:18 2021 -0400
+
+    Merge branch 'master' of https://github.com/RIT-SWEN-261-02/team-project-2211-swen-261-02-4-team4
+
+commit c9e00dbfeeaa9e3439c2d631b24855b061dce6de
+Author: Ryan Wolford <rcw3446@rit.edu>
+Date:   Wed Sep 22 21:06:12 2021 -0400
+
+    Updated the github.txt log
+
+commit a626f270b77be53141f0d84d5d8534b6ca726b16
+Author: Olaf Hichwa <olafhichwa@olafs-mbp.wireless.rit.edu>
+Date:   Wed Sep 22 20:42:50 2021 -0400
+
+    fixed adits name
+
+commit 0578b48462ded3eb9a0d693fa4a29c9ca12daf28
+Author: Ryan Wolford <rcw3446@rit.edu>
+Date:   Wed Sep 22 20:34:45 2021 -0400
+
+    Removed ardit's name to force him to go through the pain of commiting again since he can't clone like a normal person
+
+commit d021bbef51f23745569ebe8d4282319caf45737b
+Merge: 0c8dc0d c84d718
+Author: Ryan Wolford <rcw3446@rit.edu>
+Date:   Wed Sep 22 20:30:42 2021 -0400
+
+    Merge branch 'master' of https://github.com/RIT-SWEN-261-02/team-project-2211-swen-261-02-4-team4
+
+commit 0c8dc0dae826c2e7e475288557a61c0891543e99
+Author: Ryan Wolford <rcw3446@rit.edu>
+Date:   Wed Sep 22 20:30:34 2021 -0400
+
+    Chaning my name to flex on Ardit
+
+commit c84d71803e23542a90df7891e9b6b198e6741b22
+Author: ak1935 <78978500+ak1935@users.noreply.github.com>
+Date:   Wed Sep 22 20:27:34 2021 -0400
+
+    I did it, mom!
+    
+    I still can't clone though
+
+commit 3c77011519741b6bbaa0918d591910ab7a3129d9
+Author: bengurevich <69908689+bengurevich@users.noreply.github.com>
+Date:   Wed Sep 22 20:08:37 2021 -0400
+
+    Update README.md
+
+commit 373223a7a6b0fd0f82b1ab89be51df7bdf756f65
+Author: ooh5406 <70298420+ooh5406@users.noreply.github.com>
+Date:   Wed Sep 22 16:17:02 2021 -0400
+
+    added my name
+
+commit 33282c70f535ea8bc357bdcb18c39f09f0b51b7c
+Author: Ryan Wolford <rcw3446@rit.edu>
+Date:   Wed Sep 22 16:05:59 2021 -0400
+
+    Added my name to READme
+
+commit da93ea3feaf46698824c8a06887ceafc0522e036
+Author: github-classroom[bot] <66690702+github-classroom[bot]@users.noreply.github.com>
+Date:   Wed Sep 22 18:39:16 2021 +0000
+
+    Initial commit

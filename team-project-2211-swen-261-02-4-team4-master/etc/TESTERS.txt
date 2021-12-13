@@ -1,0 +1,8 @@
+Tester Instructions:
+
+1- Type in terminal "mvn compile exec:java"
+2- Go into a browser of your choice and search for the url "localhost:4567"
+3- In order to have a another user to log into the site with, start an incognito tab in your current browser and 
+search the URL again.
+4- If you would like to add other instances of users, try accessing the URL with other browsers. (use incognito for those, etc.)
+5- To terminate application, close the local terminal.
